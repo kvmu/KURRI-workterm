@@ -15,6 +15,8 @@ _Special thanks to Ms. Yuka Ono for being very organized and always reminding me
 ### full_simulation
 A work in progress that is meant to be a transverse-tracking code including the effects of beam-matter interactions. The idea is to be able to simulate using _real_ magnetic fields generated from TOSCA or Pre-Processor, the effect of the carbon-stripping foil to the transverse emittances. 
 
+Currently, it's still in the translation from C++ (Author is Yuya Horita) to Python -- then I plan to add the framework so that it takes into account the effect of the carbon foil.
+
 ### long_dynamics_simulation
 A simple longitudinal dynamics simulaton and
 plots:
