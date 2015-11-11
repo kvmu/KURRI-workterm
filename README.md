@@ -12,7 +12,7 @@ plots:
 ###side_project_kiwamu
 A fun little comparison of FORTRAN Euler method
 code vs Python RK4 code on a system of ODEs. The situation is a parent
-isotope is being bombarded by negative muons, which then is captured. The parent splits into daughter
+isotope is being bombarded by negative muons, which then are captured. The parent splits into daughter
 isotopes + neutrons. The application is to use this process to take radioactive
 isotopes with a very long half - life to daughter isotopes that are more
 stable / less radioactive.
