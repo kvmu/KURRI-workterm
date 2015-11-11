@@ -8,7 +8,7 @@ plots 1) the phi-W phasespace according to a Hamiltonian 2) and the
 longitudinal tracking of a few particles in the phi-W phasespace --
 visualizing synchrotron oscillation.
 
-s#ide_project_kiwamu
+#side_project_kiwamu
 A fun little comparison of FORTRAN Euler method
 code vs Python RK4 code on a system of ODEs. The situation is a parent
 isotope is being bombarded by neutrons and splits into daughter
