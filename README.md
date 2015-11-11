@@ -6,8 +6,8 @@ A compilation of all the work done during my work term at Kyoto University Resea
 A simple longitudinal dynamics simulaton and
 plots:
 1. the phi-W phasespace according to a Hamiltonian (can see on plot)
-2. and the longitudinal tracking of a few particles in the phi-W phasespace --
-visualizing synchrotron oscillation.
+
+2. and the longitudinal tracking of a few particles in the phi-W phasespace -- visualizing synchrotron oscillation.
 
 ###side_project_kiwamu
 A fun little comparison of FORTRAN Euler method
