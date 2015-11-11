@@ -4,7 +4,7 @@
 Kyoto University Research Reactor Institute (KURRI) was established in 1963 for the joint use program among Japanese universities to promote the research and education in the fields of nuclear energy and radiation application. Two nuclear reactors, the Kyoto University research Reactor (KUR) and the Kyoto University Critical Assembly (KUCA), and related research facilities have been being used since then, and nowadays greater expectations are being put on the research and education activities at our institute for the issues of energy and environment and for the innovative applications of radiation [[1]].
 
 # Overview
-This repository is a collection of some of the work I did during my time at KURRI as a Research Assistant. My supervisors were Dr. Yoshiharu Mori ([Google Scholar]) (Mori-sensei), and Dr. Yoshihiro Ishi (Ishi-sensei). I worked in the Innovation Laboratory and worked with the 150-MeV FFAG (Fixed Field Alternating Gradient) Accelerator, a part of the KUCA.  
+This repository is a collection of some of the work I did during my time at KURRI as a Research Assistant. My supervisors were Dr. Yoshiharu Mori (Mori-sensei) [[Google Scholar]], and Dr. Yoshihiro Ishi (Ishi-sensei). I worked in the Innovation Laboratory and worked with the 150-MeV FFAG (Fixed Field Alternating Gradient) Accelerator, a part of the KUCA.  
 
 Below, I provide a small outline of each of the folders in this repository. 
 
