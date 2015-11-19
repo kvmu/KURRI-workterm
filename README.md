@@ -8,7 +8,7 @@ This repository is a collection of some of the work I did during my time at KURR
 
 Below, I provide a small outline of each of the folders in this repository. 
 
-Any headers marked with an astersisk (*) are the important ones.
+*Any headers marked with an astersisk (*) are important.*
 
 _Special thanks to all the students: Kiwamu Ishii, Yuya Horita, Ryo Masaki, and Abe Yuma for making my stay enjoyable and fun._
 _Special thanks to my supervisors and Uesegi-san, for answering all my questions._
